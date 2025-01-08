@@ -9,7 +9,7 @@ const projects = [
     name: "My Portfolio",
     description:
       "Portfolio site that you are viewing right now :) Developed using Next.js, Tailwind CSS, and Vercel.",
-    github: "https://github.com/hqasmei/thankful-thoughts",
+    github: "https://github.com/aminasaeed18/Portfolio-Next.Js-Tailwind/tree/master",
   },
   {
     name: "Ramadan Fasting Assistant",
