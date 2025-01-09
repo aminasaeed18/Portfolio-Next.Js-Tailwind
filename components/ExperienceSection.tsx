@@ -17,7 +17,7 @@ const experience = [
   },
   {
     name: "Cognizant",
-    title: "Senior Software Developer (Jan 2022 - Mar 2021)",
+    title: "Senior Software Developer (Jan 2022 - Feb 2023)",
     description: [
       "Migrated applications to the latest versions where I replaced more than 300 Appian deprecated/about to deprecate functions with advanced functions making application more reliable and increasing efficiency by up to 30%.",
       "Styled using Tailwind CSSDeveloped 'File sensitivity recognition Automation' feature which became one of the widely used feature throughout the org which was of immense help and time saving for clients where data sensitivity of file/files can be verified immediately after uploading rather than doing the manual comparison",
@@ -35,7 +35,7 @@ const experience = [
   },
   {
     name: "IIT Bombay",
-    title: "Android developer Intern (Aug 2020 - Jan 2022)",
+    title: "Android developer Intern (Aug 2020 - Jan 2021)",
     description: [
       "Contributing to projects aimed at providing free education and water supplies to underprivileged communities in remote areas.",
       "Played a key role in integrating live classes into the application, enabling offline access to educational content in areas with no network connectivity.",
