@@ -6,40 +6,48 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const experience = [
   {
-    name: "Citi",
-    title: "Appian developer (Feb 2023 - June 2024)",
+    name: "Wipro",
+    title: "Sr Software Engineer (June 2024 - Oct 2024)",
     description: [
-      "Upgraded build environment from Appian-18.2 to Appian-22.1 and migrating the applications to this higher environment cutting build times by 19%.",
-      "Developed key features like bulk uploads, file parsing for the existing applications to provide more automation and reduce manual effort.",
-      "Fixed critical client issues and blocker bugs, increasing stability. Also resolved over 70 high-severity security vulnerabilities in the codebase.",
-      "Developed process reports for most of the existing applications which provide the detailed summary of all the processes their nodes and data flow which reduced bug fix time by 25%.",
+      "Acted as both a Senior team member and an individual contributor, worked on code optimization and processing efficiency. Resolved over 70 high-severity client issues and blocker bugs.",
+      "Designed and developed a RESTful APIs using Spring Boot. Utilized Java 11, Spring Web, and Hibernate to handle requests and interact with the database efficiently.",
+      "Ensured security and authentication by implementing SAML and OAuth 2.0 authentication protocols, enabling Single Sign-On(SSO) and secure access to APIs.",
+    ],
+  },
+  {
+    name: "Citi",
+    title: "Senior developer (Feb 2023 - June 2024)",
+    description: [
+      "Created custom File parsers for large data files, ensuring efficient parsing, and processing while optimizing memory.",
+      "Integrated Amazon S3 for cloud-based file management, improving storage efficiency and reducing server load by 25%.",
+      "Redesigned and enhanced the 'Process cloning' feature to successfully clone thousands of files at a time with 100% success rate.",
     ],
   },
   {
     name: "Cognizant",
     title: "Senior Software Developer (Jan 2022 - Feb 2023)",
     description: [
-      "Migrated applications to the latest versions where I replaced more than 300 Appian deprecated/about to deprecate functions with advanced functions making application more reliable and increasing efficiency by up to 30%.",
-      "Styled using Tailwind CSSDeveloped 'File sensitivity recognition Automation' feature which became one of the widely used feature throughout the org which was of immense help and time saving for clients where data sensitivity of file/files can be verified immediately after uploading rather than doing the manual comparison",
-      "Replaced external plugins with Appian in built functions, my customized function and smart services cutting down the cost of plugins by 100%.",
+      "Utilized Retrofit to interact with REST APIs, handling asynchronous requests to fetch and parse data in various formats (JSON, XML, etc.) and update the UI accordingly.",
+      "Developed 'File sensitivity recognition Automation' feature, a widely used time-saving tool for clients to verify data sensitivity immediately after uploading.",
+      "Eliminated external plugin dependency by developing custom Appian functions and smart services, reducing costs by 100%.",
     ],
   },
   {
     name: "Coforge",
     title: "Software Engineer (Feb 2021 - Jan 2022)",
     description: [
-      "Redesigned and redeveloped partially working 'ACS file cloning' feature which was failing if more than 4 files needed to be cloned at the same point but now it can clone 1000’s of files at a time with 100% success rate.",
-      "Enhanced functionality and responsiveness by integrating APIs with application using OAuth 2.0 Client Credentials grant, improving security and data management.",
-      "Built and optimized 100’s of Appian components like interfaces, process models, process analytics, records, reports and sites improving website user experience.",
+      "Utilized Room Database (SQLite) for storing metadata and ExoPlayer for offline video playback.",
+      "Collaborated with cross-functional teams to improve app architecture, using MVP and MVVM patterns to separate concerns and enhance code testability and maintainability.",
+      " Upgraded build environment from Appian-18.2 to Appian-22.1 and migrating the applications to this higher environment cutting build times by 19%.",
     ],
   },
   {
     name: "IIT Bombay",
     title: "Android developer Intern (Aug 2020 - Jan 2021)",
     description: [
-      "Contributing to projects aimed at providing free education and water supplies to underprivileged communities in remote areas.",
-      "Played a key role in integrating live classes into the application, enabling offline access to educational content in areas with no network connectivity.",
-      "Led a team of interns, performing code reviews and ensuring high-quality deliverables across the projects.",
+      "Developed and maintained Android applications using Java, leveraging the Android SDK and Jetpack components to implement core features and functionalities, ensuring high performance and user engagement.",
+      "Gained exposure to agile development processes and version control tools like Git.",
+      "Worked with Android lifecycle management (Activities, Fragments, Services, Broadcast Receivers), ensuring smooth app flow and memory optimization.",
     ],
   },
 ];

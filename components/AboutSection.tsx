@@ -3,17 +3,18 @@ import Image from "next/image"
 
 const skills = [
   { skill: "Java" },
-  { skill: "Appian" },
-  { skill: "SQL" },
-  { skill: "HTML" },
-  { skill: "CSS (Exploring)" },
-  { skill: "Next.js (Exploring)" },
-  { skill: "Tailwind CSS (Exploring)" },
-  { skill: "Git" },
-  { skill: "GitHub" },
-  { skill: "Bitbucket" },
+  { skill: "C++" },
+  { skill: "AWS (S3, Lambda)" },
   { skill: "Android Studio" },
   { skill: "Visual Studio" },
+  { skill: "JetPack" },
+  { skill: "Firebase" },
+  { skill: "CI/CD (Jenkins, GitHub Actions)" },
+  { skill: "Appian" },
+  { skill: "SQL (MySQL, PostgreSQL)" },
+  { skill: "NoSQL" },
+  { skill: "Bitbucket" },
+  { skill: "JIRA" },
 ]
 
 const AboutSection = () => {
