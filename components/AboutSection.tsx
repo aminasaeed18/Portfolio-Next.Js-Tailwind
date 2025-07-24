@@ -3,7 +3,9 @@ import Image from "next/image"
 
 const skills = [
   { skill: "Java" },
+  { skill: "Python" },
   { skill: "C++" },
+  { skill: "Spark" },
   { skill: "AWS (S3, Lambda)" },
   { skill: "Android Studio" },
   { skill: "Visual Studio" },
